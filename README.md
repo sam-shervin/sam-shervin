@@ -1,4 +1,6 @@
 ### Hi there 👋
+#My Github Stats
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sam-shervin&theme=vision_friendly_dark)
 
 <!--
 **sam-shervin/sam-shervin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

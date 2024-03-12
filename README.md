@@ -20,7 +20,7 @@
 >- 🤝 I thrive in collaborative environments, where I can learn from others and contribute my expertise to drive projects forward.\
 >- 🌱 I'm always on the lookout for new challenges and opportunities to expand my knowledge and skill set, with a firm belief in the power of technology to shape a better tomorrow.
 ### Let's Connect!
-📫 If you share similar interests or have exciting projects in mind, I'd love to connect and explore how we can collaborate to create something extraordinary. Feel free to reach out to me via email or connect with me on LinkedIn. [linkedin](https://www.linkedin.com/in/sam-shervin/)
+📫 If you share similar interests or have exciting projects in mind, I'd love to connect and explore how we can collaborate to create something extraordinary. Feel free to reach out to me via [email](mailto:sam@shervin.live) or connect with me on [LinkedIn](https://www.linkedin.com/in/sam-shervin/).
 
 
 

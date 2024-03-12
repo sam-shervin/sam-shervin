@@ -18,7 +18,7 @@
 ### What I Bring to the Table
 🚀 With a strong foundation in both frontend development and AI/ML, I bring a unique blend of skills to the table, allowing me to conceptualize, design, and implement holistic solutions that push the boundaries of innovation.
 🤝 I thrive in collaborative environments, where I can learn from others and contribute my expertise to drive projects forward.\
-🌱 I'm always on the lookout for new challenges and opportunities to expand my knowledge and skill set, with a firm belief in the power of technology to shape a better tomorrow.\
+🌱 I'm always on the lookout for new challenges and opportunities to expand my knowledge and skill set, with a firm belief in the power of technology to shape a better tomorrow.
 ### Let's Connect!
 📫 If you share similar interests or have exciting projects in mind, I'd love to connect and explore how we can collaborate to create something extraordinary. Feel free to reach out to me via email or connect with me on LinkedIn. [linkedin](https://www.linkedin.com/in/sam-shervin/)
 

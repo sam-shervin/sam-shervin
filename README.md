@@ -4,11 +4,6 @@
 # My Github Stats
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sam-shervin&theme=vision_friendly_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sam-shervin&theme=vision_friendly_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sam-shervin&theme=vision_friendly_dark)
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=sam-shervin&theme=vision_friendly_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sam-shervin&theme=vision_friendly_dark&utcOffset=8)
 
 ### What I Do
 >- 🌐 I specialize in creating captivating websites and web applications, crafting seamless user experiences using technologies like Next.js, TypeScript, and Tailwind CSS.
@@ -23,6 +18,11 @@
 📫 If you share similar interests or have exciting projects in mind, I'd love to connect and explore how we can collaborate to create something extraordinary. Feel free to reach out to me via [email](mailto:sam@shervin.live) or connect with me on [LinkedIn](https://www.linkedin.com/in/sam-shervin/).
 
 
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sam-shervin&theme=vision_friendly_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sam-shervin&theme=vision_friendly_dark)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=sam-shervin&theme=vision_friendly_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sam-shervin&theme=vision_friendly_dark&utcOffset=8)
 
 <!--
 **sam-shervin/sam-shervin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -1,4 +1,4 @@
-### About Me
+## About Me
 👋 Hello there! I'm Sam Shervin, a passionate tech enthusiast with a keen interest in Artificial Intelligence, Machine Learning, and antennas. I thrive on exploring the intricacies of cutting-edge technologies and leveraging them to build innovative solutions.
 
 # My Github Stats
@@ -11,7 +11,7 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sam-shervin&theme=vision_friendly_dark&utcOffset=8)
 
 ### What I Do
-🌐 I specialize in creating captivating websites and web applications, crafting seamless user experiences using technologies like Next.js, TypeScript, and Tailwind CSS.
+🌐 I specialize in creating captivating websites and web applications, crafting seamless user experiences using technologies like Next.js, TypeScript, and Tailwind CSS. \n
 
 🤖 My journey into the realms of AI and ML has been exhilarating. I'm proficient in Keras, TensorFlow, and PyTorch, where I've dabbled in building models and exploring various algorithms to solve real-world problems.
 

@@ -1,6 +1,6 @@
 ## About Me
 
-👋 Hello there! I'm [Your Name], a passionate tech enthusiast with a keen interest in Artificial Intelligence, Machine Learning, and antennas. I thrive on exploring the intricacies of cutting-edge technologies and leveraging them to build innovative solutions.
+👋 Hello there! I'm Sam Shervin, a passionate tech enthusiast with a keen interest in Artificial Intelligence, Machine Learning, and antennas. I thrive on exploring the intricacies of cutting-edge technologies and leveraging them to build innovative solutions.
 
 ### What I Do
 

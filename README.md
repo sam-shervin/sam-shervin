@@ -11,8 +11,7 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sam-shervin&theme=vision_friendly_dark&utcOffset=8)
 
 ### What I Do
-🌐 I specialize in creating captivating websites and web applications, crafting seamless user experiences using technologies like Next.js, TypeScript, and Tailwind CSS. \n
-
+🌐 I specialize in creating captivating websites and web applications, crafting seamless user experiences using technologies like Next.js, TypeScript, and Tailwind CSS.\
 🤖 My journey into the realms of AI and ML has been exhilarating. I'm proficient in Keras, TensorFlow, and PyTorch, where I've dabbled in building models and exploring various algorithms to solve real-world problems.
 
 📱 I've also ventured into mobile app development, having built a small demo app using Flutter, exploring its capabilities and potential for future projects.

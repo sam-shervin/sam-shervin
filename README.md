@@ -1,13 +1,14 @@
 <div align="center">
 
-# 👋 Hello There!
+#  Hello There!
 
-🎓 Final-year Electronics and Computer Engineering Undergrad @ VIT Chennai  
-💡 From **AI/ML & Deep Learning** to **Full-Stack, IoT (ESP32-CAM) & FPGA** — I love building end-to-end. 
+🎓 Final-year Electronics & Computer Engineering @ VIT Chennai  
+🖥️ I hack on **AI/ML • Deep Learning • Full-Stack • Embedded (ESP32-CAM) • FPGA** — from schematics to deploy.
 
 ---
 
-![](https://komarev.com/ghpvc/?username=sam-shervin&color=yellow&style=for-the-badge)  
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sam-shervin&theme=highcontrast)  
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=sam-shervin&show_icons=true&theme=highcontrast)](https://github.com/sam-shervin)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sam-shervin&layout=compact&theme=highcontrast)](https://github.com/sam-shervin)
+[![Profile Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sam-shervin&theme=highcontrast)](https://github.com/sam-shervin)
 
 </div>

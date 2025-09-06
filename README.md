@@ -1,6 +1,9 @@
+<div align="center">
+
 # 👋 Hi, I’m Sam Shervin  
 
 ⚡ I build end-to-end systems where **AI meets hardware** — from full-stack apps to FPGA acceleration.  
+
 🚀 Highlights:  
 - Built an **AI prototype for medical underwriting** at CTD Techs  
 - Scaled **Vibrance (VIT’s fest) website** to 50K+ users with Next.js, Docker, Cloudflare  
@@ -15,3 +18,4 @@
 ![](https://komarev.com/ghpvc/?username=sam-shervin&color=yellow&style=for-the-badge)  
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sam-shervin&theme=highcontrast)  
 
+</div>

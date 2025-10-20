@@ -3,7 +3,7 @@
 #  Hello There!
 
 🎓 Final-year Electronics & Computer Engineering @ VIT Chennai  
-🖥️ I hack on **AI/ML • Deep Learning • Full-Stack • Embedded (ESP32-CAM) • FPGA** — from schematics to deploy.
+🖥️ I hack on **AI/ML • Deep Learning • Full-Stack • Embedded • FPGA** — from schematics to deploy.
 
 ---
 
